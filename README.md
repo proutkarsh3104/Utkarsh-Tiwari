@@ -39,6 +39,8 @@
 
 [![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proutkarsh3104&theme=dracula)]
 
+![Banner](https://github.com/proutkarsh3104/Utkarsh-Tiwari/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 
 
 
