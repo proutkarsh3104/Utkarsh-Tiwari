@@ -33,5 +33,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=proutkarsh3104&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=proutkarsh3104&layout=compact&theme=radical)
+
+[![Utkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=proutkarsh3104&theme=dracula)]
+
+
+
+
 
 
